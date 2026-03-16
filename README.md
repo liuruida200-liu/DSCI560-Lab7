@@ -1,9 +1,5 @@
-# DSCI 560 - Lab 7
-Team: Stay Alive
-
 ## Project Overview
-
-In this lab, we built a mobile phone-based IoT system using OwnTracks and ThingsBoard.
+a mobile phone-based IoT system using OwnTracks and ThingsBoard.
 
 We deployed ThingsBoard Community Edition on an AWS EC2 Ubuntu instance and connected our phones to it using HTTP telemetry. GPS data (lat/lon) is stored in PostgreSQL and visualized on dashboards in real time.
 
